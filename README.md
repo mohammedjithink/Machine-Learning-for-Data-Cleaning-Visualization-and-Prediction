@@ -1,1 +1,1 @@
-# Machine-Learning-for-Data-Cleaning-Visualization-and-Prediction
+# Machine Learning for Data Cleaning Visualization and Prediction
